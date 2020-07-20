@@ -1,4 +1,1 @@
-<div text-align="center">
-## Object-Oriented Data Structures in C++
-### Final Project Question Solution
-</div>
+<h1 align="center">Object-Oriented Data Structures in C++</h1>
